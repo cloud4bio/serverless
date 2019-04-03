@@ -1,0 +1,20 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "Bare minimum serverless application with continuous deployment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloud4bio/serverless.git"
+  },
+  "author": "Jonas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloud4bio/serverless/issues"
+  },
+  "homepage": "https://github.com/cloud4bio/serverless#readme"
+}
